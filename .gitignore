@@ -1,4 +1,4 @@
 node_modules/
 *.docx
 *.pdf
-THEORY.md
+THEORY*.md
