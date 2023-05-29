@@ -1,0 +1,17 @@
+{
+  "name": "node-developer-technical-test-280088",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "author": "Paul Cryer",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.31.1"
+  }
+}
